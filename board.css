@@ -1,0 +1,172 @@
+*{
+		margin: 0;
+		padding: 0;
+	 }
+.wrap {
+    width: 1200px;
+    height: 500px;
+    margin: 0px auto;
+    background: #00aef0;
+   }
+.left_top{
+    width:100%;
+    height: 100.4px;
+    background:#00aef0;
+  
+}
+.right{
+	float:right;
+}
+a {
+		text-decoration: none;
+		color:#FFFFFF;
+}
+
+.main{
+	width:60%;
+	height: 500px;
+	background:#9DCFFF;
+	float : left;
+	margin : 10px -260px 10px 260px;
+}
+.seoul{
+	width:350px;
+	height:100px;
+	background:white;
+	margin : 13px 5px;
+	float: left;
+}
+.Busan{
+	width:350px;
+	height:100px;
+	background:white;
+	float : right;
+	margin : 13px 5px;
+}
+ .incheon{
+	width:350px;
+	height:100px;
+	background:white;
+	margin : 13px 5px;
+	float: left;
+}
+.Jeju{
+	width:350px;
+	height:100px;
+	background:white;
+	float : right;
+	margin : 13px 5px;
+}
+.Gyeongju{
+	width:350px;
+	height:100px;
+	background:white;
+	margin : 13px 5px;
+	float: left;
+}
+.Daegu{
+	width:350px;
+	height:100px;
+	background:white;
+	float : right;
+	margin : 13px 5px;
+}
+.Daejeon{
+	width:350px;
+	height:100px;
+	background:white;
+	margin : 13px 5px;
+	float: left;
+}
+.Yeosu{
+	width:350px;
+	height:100px;
+	background:white;
+	float : right;
+	margin : 13px 5px;
+} 
+.search{
+	width:35%;
+	height: 500px;
+	background: #2c4162;
+	float : right;
+	margin : 10px;
+}
+.lating{
+	width:98%;
+	height:400px;
+	background:#9DCFFF;
+	float:left;
+	margin:10px 10px 10px 10px;
+}
+.footer{
+	width:100%;
+	height:300px;
+	background:#2c4162;
+	float:left;
+}
+.sub1{
+	float:left;
+	width:25%;
+	heigth:80px;
+	background:#2c4162;
+	margin:30px 50px ;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #fff;
+}
+.sub2{
+	float:left;
+	width:25%;
+	heigth:80px;
+	background:#2c4162;
+	margin:30px 50px ;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #fff;
+	
+}
+.sub3{
+	float:left;
+	width:25%;
+	heigth:80px;
+	background:#2c4162;
+	margin:30px 50px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #fff;
+}
+.footer2{
+	width:100%;
+	height:150px;
+	background:#2c4162;
+	float:left;
+}
+.sns{
+    float:left;
+	width:25%;
+	heigth:80px;
+	background:#2c4162;
+	margin:10px 11px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #fff;
+}
+.mobile{
+	float:left;
+	width:25%;
+	heigth:80px;
+	background:#2c4162;
+	margin:10px 11px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #fff;
+}
+.copyright{
+	color:#FFFFFF;
+	font-size:15px;
+	float:left;
+	margin: 10px 530px 10px 10px;
+}
+.right_copyrigth{
+	color:#FFFFFF;
+	font-size:15px;
+	float:right;
+	margin: 10px 10px 10px 10px;
+	
+}
